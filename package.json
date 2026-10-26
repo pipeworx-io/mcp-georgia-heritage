@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-georgia-heritage",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Georgia (the country) — National Register of Immovable Cultural Heritage.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-68e9640a49e34cce8e37a6344c432ece0b1caa14316f87ff524b543ef4044407",
-    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
+    "sourceHash": "v1-18334fe8403175db4c1e90a89df752d75a4b65abcf34a66df55145468ee688da",
+    "sourceCommit": "445bacc5596a845c12d6945fbfcdf330ef60dcc4"
   }
 }
